@@ -3,7 +3,6 @@
 A simple *Java-based Banking Application* that allows users to manage their bank accounts efficiently.  
 This project demonstrates Object-Oriented Programming concepts, along with arrays, control structures, strings, and input validation.
 
----
 
 ## 🚀 Features
 
@@ -18,7 +17,6 @@ This project demonstrates Object-Oriented Programming concepts, along with array
   - Valid Phone number  
   - Numeric Deposits/Withdrawals  
 
----
 
 ## 🛠 Tech Stack
 
@@ -30,14 +28,12 @@ This project demonstrates Object-Oriented Programming concepts, along with array
   - Arrays  
   - Input Validation  
 
----
 
 ## 📂 Project Structure
 
 - *BankingApp.java*   // Main application file
 - *README.md*         // Project documentation
 
----
 
 ## 📸 Demo (Sample Run)
 ==============================
